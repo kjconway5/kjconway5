@@ -29,4 +29,5 @@
 - FPGA logic design/ verification 
 
 ## ⚡ Fun Facts
-I love the outdoors whether it be camping, hiking or mountain biking! I also love playing the guitar and listening to older rock/metal music. 
+- I love the outdoors whether it be camping, hiking or mountain biking!
+- I also love playing the guitar and listening to older rock/metal music. 

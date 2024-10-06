@@ -26,7 +26,8 @@
 ## 🌱 I’m currently learning
 - Circuit design for amplifiers and signal processing
 - PCB design
-- FPGA logic design/ verification 
+- FPGA logic design/ verification
+- Verilog
 
 ## ⚡ Fun Facts
 - I love the outdoors whether it be camping, hiking or mountain biking!

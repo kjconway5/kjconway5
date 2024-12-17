@@ -15,7 +15,7 @@
 - Integrating an amplifier circuit designed using **TL072 IC** and microcontroller input/output processing.
 
 ## 🛠️ Skills
-- **Languages**: Swift, C/C++, Python, Verilog
+- **Languages**: Swift, C/C++, Python, Systems Verilog
 - **Frameworks & Tools**: SwiftUI, Fusion 360
 - **Hardware**: Arduino, Microcontrollers, Circuit Design
 
@@ -25,9 +25,10 @@
 
 ## 🌱 I’m currently learning
 - Circuit design for amplifiers and signal processing
-- PCB design
-- FPGA logic design/ verification
-- Verilog
+- Analog Circuits
+- Digital Design
+- FPGA logic design/verification
+- VLSI
 
 ## ⚡ Fun Facts
 - I love the outdoors whether it be camping, hiking or mountain biking!

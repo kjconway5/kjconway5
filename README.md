@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 🎓 I’m currently a third-year **Computer Engineering** student at **UC Santa Cruz**.
-- 🎯 My goal is to become a **Computer Hardware Engineer** and eventually go to graduate school for **Electrical Engineering**.
-- 💻 I’m passionate about computer hardware and electronics in general.
+- 🎯 My goal is to become a **Computer Hardware Engineer** and eventually go to graduate school for **Computer Engineering**.
+- 💻 I’m passionate about computer hardware and digital design.
 - 🔧 My current focus: Developing a **guitar tuner** using an microcontroller and designing an **amp circuit**.
 
 ## 🌟 Projects
